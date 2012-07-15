@@ -17,6 +17,13 @@ soundcloud, spotify - Links to the audio urls in the file
 quote               - Quotes that you want to post. The filename is going to be the source of the quote :D
 chat                - a file with a chat conversation you've put together.
 
+To run the tumblrbox, on some server which has access to your Dropbox just run:
+```
+ruby tumblrbox.rb
+```
+
+Then just start dropping files in.
+
 This is all very brittle and is going to break on you. Sorry. It just will. :( BUT you should contribute and make it
 NOT brittle and more user friendly! I wrote it in like an hour. This doc took longer ;)
 
