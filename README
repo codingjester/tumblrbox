@@ -18,9 +18,8 @@ quote               - Quotes that you want to post. The filename is going to be 
 chat                - a file with a chat conversation you've put together.
 
 To run the tumblrbox, on some server which has access to your Dropbox just run:
-```
+
 ruby tumblrbox.rb
-```
 
 Then just start dropping files in.
 
