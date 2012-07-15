@@ -1,0 +1,24 @@
+This is just a total hack for using Dropbox and Tumblr together.
+
+Basically start dropping files into your Tumblr App folder and it starts posting to your Tumblr.
+
+Alot of this is hardcoded because I'm lazy but it's kind of cool right?
+
+Anyway, you make files based on the different post types on Tumblr.
+Eg: <filename>.<post_type>
+
+Post Types
+
+txt, text           - Just a simple text post. Whatever the contents are it posts it.
+image files         - I just read this image files and post them to Tumblr (jpg, jpeg, gif, png)
+youtube             - Post a youtube file :o
+link                - A text file with a link in it.
+soundcloud, spotify - Links to the audio urls in the file
+quote               - Quotes that you want to post. The filename is going to be the source of the quote :D
+chat                - a file with a chat conversation you've put together.
+
+This is all very brittle and is going to break on you. Sorry. It just will. :( BUT you should contribute and make it
+NOT brittle and more user friendly! I wrote it in like an hour. This doc took longer ;)
+
+Anyway, this was fun. I enjoyed it. It is not my finest code so please do no judge me on it.
+
